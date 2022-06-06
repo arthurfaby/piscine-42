@@ -7,14 +7,15 @@ Please don't use my code in order to cheat during your pool.
 # Table of contents
 
 ### Shell 00
-	ex00: Z
-	ex01: testShell00
-	ex02: Oh yeah, mooore...
-	ex03: SSH me!
-	ex04: midLS
-	ex05: GiT commit
-	ex06: gitignore
-	ex07: diff
-	ex08: clean
-	ex09: Illusions, not tricks, Michael...
+
+	<span style="color: green">[OK]</span>	ex00: Z
+	<span style="color: green">[OK]</span>	ex01: testShell00
+	<span style="color: green">[OK]</span>	ex02: Oh yeah, mooore...
+	<span style="color: green">[OK]</span>	ex03: SSH me!
+	<span style="color: green">[OK]</span>	ex04: midLS
+	<span style="color: green">[OK]</span>	ex05: GiT commit
+	<span style="color: green">[OK]</span>	ex06: gitignore
+	<span style="color: green">[OK]</span>	ex07: diff
+	<span style="color: green">[OK]</span>	ex08: clean
+	<span style="color: green">[OK]</span>	ex09: Illusions, not tricks, Michael...
 	
