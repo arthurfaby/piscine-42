@@ -6,16 +6,15 @@ Please don't use my code in order to cheat during your pool.
 
 # Table of contents
 
-### Shell 00
+### Shell 00 [100 / 100]
 
-	<span style="color: green">[OK]</span>	ex00: Z
-	<span style="color: green">[OK]</span>	ex01: testShell00
-	<span style="color: green">[OK]</span>	ex02: Oh yeah, mooore...
-	<span style="color: green">[OK]</span>	ex03: SSH me!
-	<span style="color: green">[OK]</span>	ex04: midLS
-	<span style="color: green">[OK]</span>	ex05: GiT commit
-	<span style="color: green">[OK]</span>	ex06: gitignore
-	<span style="color: green">[OK]</span>	ex07: diff
-	<span style="color: green">[OK]</span>	ex08: clean
-	<span style="color: green">[OK]</span>	ex09: Illusions, not tricks, Michael...
-	
+	[OK] ex00: Z
+	[OK] ex01: testShell00
+	[OK] ex02: Oh yeah, mooore...
+	[OK] ex03: SSH me!
+	[OK] ex04: midLS
+	[OK] ex05: GiT commit
+	[OK] ex06: gitignore
+	[OK] ex07: dif
+	[OK] ex08: clean
+	[OK] ex09: Illusions, not tricks, Michael...
