@@ -8,7 +8,9 @@ Please don't use my code in order to cheat during your pool.
 
 ### Shell 00
 
-```diff
+<p class="color: green"> [OK test] </p>
+
+```
 + [OK] ex00: Z
 + [OK] ex01: testShell00
 + [OK] ex02: Oh yeah, mooore...
